@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Benji8500/Benji8500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
